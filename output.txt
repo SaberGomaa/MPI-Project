@@ -1,0 +1,2 @@
+Total number of Elements in the array : 5
+20 30 50 90 120 
